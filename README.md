@@ -216,38 +216,62 @@ Currently working on new projects while improving my development and problem-sol
 |:---:|:---:|:---:|:---:|
 | LeetCode | Web Development | Cybersecurity | SQL |
 | Problem Solving | React | Digital Forensics | MySQL |
-
-</div>
-
 ---
 
 ## 📈 Developer Journey
 
 <div align="center">
 
-```text
-              ┌──────────────┐
-              │   🧠 LEARN   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  💻 PRACTICE │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   🧩 SOLVE   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   🚀 BUILD   │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  📈 IMPROVE  │
-              └──────┬───────┘
-                     │
-                     └──────────↺
-```
+<table>
+<tr>
+<td align="center">
+
+🧠<br>
+<b>LEARN</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+💻<br>
+<b>PRACTICE</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🧩<br>
+<b>SOLVE</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+🚀<br>
+<b>BUILD</b>
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+📈<br>
+<b>IMPROVE</b>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`LEARN` → `PRACTICE` → `SOLVE` → `BUILD` → `IMPROVE` → `REPEAT`
 
 </div>
 
