@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Milan Tariyal 👋
 
-<!--
-**milantariyal/milantariyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech CSE Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem-solving, and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently Working On
+- 🧠 DSA & LeetCode
+- 🌐 Web Development Projects
+- 🔐 Exploring Cybersecurity & Digital Forensics
+
+###  Tech Stack
+C++ • Java • Python • JavaScript • React • HTML • CSS • SQL • Git
+
+###  Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/milan-tariyal-77a8b9334/
+- 📧 Email: milantariyal2006@gmail.com
+
+> **Learn. Build. Solve. Repeat. **
