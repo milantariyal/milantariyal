@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=MILAN%20TARIYAL&fontSize=48&fontColor=58A6FF&fontAlignY=42&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=230&section=header&text=MILAN%20TARIYAL&fontSize=50&fontColor=58A6FF&fontAlignY=42&stroke=58A6FF&strokeWidth=1" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=700&lines=%3E+building+%3E+solving+%3E+learning;software+engineering+%7C+dsa+%7C+web+development;turning+ideas+into+working+software;always+one+problem+away+from+getting+better" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=750&lines=%3E+building+%3E+solving+%3E+learning;software+engineering+%7C+dsa+%7C+web+development;turning+ideas+into+working+software;learning+something+new+every+day" />
 
 <br><br>
 
@@ -26,33 +26,45 @@
 
 ## 👨‍💻 About Me
 
-I'm **Milan**, a B.Tech Computer Science student at **VIT Bhopal University**, specializing in **Cyber Security & Digital Forensics**.
+Hi, I'm **Milan Tariyal** — a Computer Science student at **VIT Bhopal University**, specializing in **Cyber Security & Digital Forensics**.
 
-I'm interested in **software engineering, problem solving, web development, and cybersecurity**.
+I'm interested in **software engineering, data structures & algorithms, web development, and cybersecurity**. I enjoy building projects, solving programming problems, and learning technologies by actually using them.
 
-Currently, I'm focused on strengthening my **DSA skills through LeetCode** while building projects and learning technologies through hands-on development.
+```text
+Currently learning → DSA + Software Engineering
+Currently building  → Web & Database Projects
+Currently exploring → Cybersecurity
+Goal                → Become a Software Engineer
+```
 
-- 🧠 Practicing **Data Structures & Algorithms**
-- 💻 Solving **LeetCode** problems
-- 🌐 Building **Web Development Projects**
+### What I'm Working On
+
+- 🧠 Strengthening **Data Structures & Algorithms**
+- 💻 Solving problems on **LeetCode**
+- 🌐 Building **web development projects**
+- 🗄️ Working with **SQL & databases**
 - 🔐 Exploring **Cybersecurity & Digital Forensics**
-- 🚀 Working towards becoming a **Software Engineer**
+- 🚀 Building projects that solve practical problems
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 
-### Web Development
+<br><br>
+
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
-### Database & Tools
+<br><br>
+
+### 🗄️ Database & Development Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
 
@@ -64,7 +76,7 @@ Currently, I'm focused on strengthening my **DSA skills through LeetCode** while
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFA116&center=true&vCenter=true&width=500&lines=Solving+problems+one+at+a+time...;Turning+logic+into+code+%F0%9F%A7%A0;Getting+better+every+day+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=FFA116&center=true&vCenter=true&width=600&lines=Solving+one+problem+at+a+time...;Learning+through+problem+solving;Turning+logic+into+code+%F0%9F%A7%A0;Improving+with+every+solution+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -76,69 +88,108 @@ Currently, I'm focused on strengthening my **DSA skills through LeetCode** while
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔍 DeepTrust
+<td width="50%" valign="top">
 
-**AI-Based Deepfake Detection**
+<h3>🔍 DeepTrust</h3>
 
-A system designed to detect manipulated video and audio content.
+<b>AI-Based Deepfake Detection System</b>
 
-`Python` `AI` `Web`
+<p>
+A system designed to identify manipulated video and audio content using AI-based analysis.
+</p>
+
+<p>
+<code>Python</code>
+<code>AI</code>
+<code>Machine Learning</code>
+<code>Web</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛒 Amazon Clone</h3>
+
+<b>E-Commerce Frontend Project</b>
+
+<p>
+A frontend e-commerce project built to practice responsive layouts, UI development, and JavaScript functionality.
+</p>
+
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
 
 </td>
 
-<td width="50%">
-
-### 🛒 Amazon Clone
-
-**E-Commerce Web Project**
-
-A frontend project built to strengthen real-world web development skills.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🗄️ SQL Projects
+<td width="50%" valign="top">
 
-**Database Systems**
+<h3>🗄️ SQL Projects</h3>
 
-Building database projects focused on real-world data management.
+<b>Real-World Database Systems</b>
 
-`MySQL` `SQL`
+<p>
+Building large-scale SQL projects focused on database design, relationships, queries, analytics, and real-world data management.
+</p>
+
+<p>
+<code>MySQL</code>
+<code>SQL</code>
+<code>Database Design</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ More Projects</h3>
+
+<b>Always Building</b>
+
+<p>
+Currently working on new projects while improving my software development and problem-solving skills.
+</p>
+
+<p>
+<code>Learn</code>
+<code>Build</code>
+<code>Improve</code>
+</p>
 
 </td>
 
-<td width="50%">
-
-### 💻 More Coming Soon...
-
-Currently working on new projects while improving my development and problem-solving skills.
-
-`Code` `Build` `Learn`
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=milantariyal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=milantariyal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milantariyal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milantariyal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=milantariyal&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -158,26 +209,73 @@ Currently working on new projects while improving my development and problem-sol
 
 <div align="center">
 
-| 🧠 DSA | 🌐 Development | 🔐 Security | 🚀 Projects |
+| 🧠 DSA | 🌐 Development | 🔐 Security | 🗄️ Databases |
 |:---:|:---:|:---:|:---:|
-| LeetCode | Web Development | Cybersecurity | Building |
+| LeetCode | Web Development | Cybersecurity | SQL |
+| Problem Solving | React | Digital Forensics | MySQL |
 
 </div>
 
 ---
 
-## 🌱 My Learning Loop
+## 📈 Developer Journey
+
+```text
+              ┌──────────────┐
+              │   🧠 LEARN   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │  💻 PRACTICE │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   🧩 SOLVE   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   🚀 BUILD   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │  📈 IMPROVE  │
+              └──────┬───────┘
+                     │
+                     └──────────↺
+```
+
+---
+
+## 💡 Philosophy
 
 <div align="center">
 
-```text
-        🧠 LEARN
-           ↓
-      💻 PRACTICE
-           ↓
-       🧩 SOLVE
-           ↓
-       🚀 BUILD
-           ↓
-       📈 IMPROVE
-           ↺
+> **Learn. Build. Break. Fix. Repeat.**
+
+*Every project is an opportunity to learn something new.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always interested in learning, building, collaborating, and connecting with other developers.
+
+<br>
+
+<a href="https://www.linkedin.com/in/milan-tariyal-77a8b9334/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:milantariyal2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=100&section=footer"/>
+
+</div>
