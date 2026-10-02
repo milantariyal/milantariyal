@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Milan Tariyal** — a Computer Science student at **VIT Bhopal University**, specializing in **Cyber Security & Digital Forensics**.
 
@@ -41,33 +41,33 @@ Goal                → Become a Software Engineer
 
 ### What I'm Working On
 
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 💻 Solving problems on **LeetCode**
-- 🌐 Building **Web Development Projects**
-- 🗄️ Working with **SQL & Databases**
-- 🔐 Exploring **Cybersecurity & Digital Forensics**
-- 🚀 Building practical projects
-- 📚 Continuously improving my programming skills
+-  Strengthening **Data Structures & Algorithms**
+-  Solving problems on **LeetCode**
+-  Building **Web Development Projects**
+-  Working with **SQL & Databases**
+-  Exploring **Cybersecurity & Digital Forensics**
+-  Building practical projects
+-  Continuously improving my programming skills
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 
 <br><br>
 
-### 🌐 Web Development
+###  Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 
 <br><br>
 
-### 🗄️ Database & Development Tools
+###  Database & Development Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
 
@@ -75,7 +75,7 @@ Goal                → Become a Software Engineer
 
 ---
 
-## 🧠 Problem Solving
+##  Problem Solving
 
 <div align="center">
 
@@ -91,14 +91,14 @@ Goal                → Become a Software Engineer
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🔍 DeepTrust</h3>
+<h3> DeepTrust</h3>
 
 <b>AI-Based Deepfake Detection System</b>
 
@@ -139,7 +139,7 @@ A frontend e-commerce project built to practice responsive layouts, UI developme
 
 <td width="50%" valign="top">
 
-<h3>🗄️ SQL Projects</h3>
+<h3> SQL Projects</h3>
 
 <b>Real-World Database Systems</b>
 
@@ -157,7 +157,7 @@ Building database projects focused on database design, relationships, complex qu
 
 <td width="50%" valign="top">
 
-<h3>⚡ More Projects</h3>
+<h3> More Projects</h3>
 
 <b>Always Building</b>
 
@@ -178,7 +178,7 @@ Currently working on new projects while improving my development and problem-sol
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -208,11 +208,11 @@ Currently working on new projects while improving my development and problem-sol
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 <div align="center">
 
-| 🧠 DSA | 🌐 Development | 🔐 Security | 🗄️ Databases |
+|  DSA |  Development |  Security |  Databases |
 |:---:|:---:|:---:|:---:|
 | LeetCode | Web Development | Cybersecurity | SQL |
 | Problem Solving | React | Digital Forensics | MySQL |
@@ -226,7 +226,7 @@ Currently working on new projects while improving my development and problem-sol
 <tr>
 <td align="center">
 
-🧠<br>
+<br>
 <b>LEARN</b>
 
 </td>
@@ -235,7 +235,7 @@ Currently working on new projects while improving my development and problem-sol
 
 <td align="center">
 
-💻<br>
+<br>
 <b>PRACTICE</b>
 
 </td>
@@ -244,7 +244,7 @@ Currently working on new projects while improving my development and problem-sol
 
 <td align="center">
 
-🧩<br>
+<br>
 <b>SOLVE</b>
 
 </td>
@@ -253,7 +253,7 @@ Currently working on new projects while improving my development and problem-sol
 
 <td align="center">
 
-🚀<br>
+<br>
 <b>BUILD</b>
 
 </td>
@@ -262,7 +262,7 @@ Currently working on new projects while improving my development and problem-sol
 
 <td align="center">
 
-📈<br>
+<br>
 <b>IMPROVE</b>
 
 </td>
@@ -277,7 +277,7 @@ Currently working on new projects while improving my development and problem-sol
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 <div align="center">
 
@@ -289,7 +289,7 @@ Currently working on new projects while improving my development and problem-sol
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
