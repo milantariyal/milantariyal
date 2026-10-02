@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/Milan2006/">
 <img src="https://img.shields.io/badge/LeetCode-Solve-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
@@ -28,10 +28,12 @@
 
 Hi, I'm **Milan Tariyal** — a Computer Science student at **VIT Bhopal University**, specializing in **Cyber Security & Digital Forensics**.
 
-I'm interested in **software engineering, data structures & algorithms, web development, and cybersecurity**. I enjoy building projects, solving programming problems, and learning technologies by actually using them.
+I'm interested in **software engineering, data structures & algorithms, web development, databases, and cybersecurity**.
+
+I enjoy building projects, solving programming problems, and learning new technologies through hands-on development.
 
 ```text
-Currently learning → DSA + Software Engineering
+Currently learning  → DSA + Software Engineering
 Currently building  → Web & Database Projects
 Currently exploring → Cybersecurity
 Goal                → Become a Software Engineer
@@ -41,10 +43,11 @@ Goal                → Become a Software Engineer
 
 - 🧠 Strengthening **Data Structures & Algorithms**
 - 💻 Solving problems on **LeetCode**
-- 🌐 Building **web development projects**
-- 🗄️ Working with **SQL & databases**
+- 🌐 Building **Web Development Projects**
+- 🗄️ Working with **SQL & Databases**
 - 🔐 Exploring **Cybersecurity & Digital Forensics**
-- 🚀 Building projects that solve practical problems
+- 🚀 Building practical projects
+- 📚 Continuously improving my programming skills
 
 ---
 
@@ -80,7 +83,7 @@ Goal                → Become a Software Engineer
 
 <br><br>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/Milan2006/">
 <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -141,7 +144,7 @@ A frontend e-commerce project built to practice responsive layouts, UI developme
 <b>Real-World Database Systems</b>
 
 <p>
-Building large-scale SQL projects focused on database design, relationships, queries, analytics, and real-world data management.
+Building database projects focused on database design, relationships, complex queries, analytics, and real-world data management.
 </p>
 
 <p>
@@ -159,7 +162,7 @@ Building large-scale SQL projects focused on database design, relationships, que
 <b>Always Building</b>
 
 <p>
-Currently working on new projects while improving my software development and problem-solving skills.
+Currently working on new projects while improving my development and problem-solving skills.
 </p>
 
 <p>
@@ -220,6 +223,8 @@ Currently working on new projects while improving my software development and pr
 
 ## 📈 Developer Journey
 
+<div align="center">
+
 ```text
               ┌──────────────┐
               │   🧠 LEARN   │
@@ -244,13 +249,15 @@ Currently working on new projects while improving my software development and pr
                      └──────────↺
 ```
 
+</div>
+
 ---
 
 ## 💡 Philosophy
 
 <div align="center">
 
-> **Learn. Build. Break. Fix. Repeat.**
+### Learn. Build. Break. Fix. Repeat.
 
 *Every project is an opportunity to learn something new.*
 
@@ -258,11 +265,11 @@ Currently working on new projects while improving my software development and pr
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 🤝 Let's Connect
-
-I'm always interested in learning, building, collaborating, and connecting with other developers.
+I'm always interested in **learning, building, collaborating, and connecting with other developers.**
 
 <br>
 
@@ -272,6 +279,10 @@ I'm always interested in learning, building, collaborating, and connecting with 
 
 <a href="mailto:milantariyal2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<a href="https://leetcode.com/u/Milan2006/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <br><br>
