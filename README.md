@@ -200,46 +200,13 @@ Currently working on new projects while improving my development and problem-sol
 
 ## 🐍 Contribution Journey
 
-name: Generate Pacman Contribution SVG
+### 🎮 Contribution Journey
 
-on:
-  # Run automatically every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
-  
-  # Allows you to manually trigger the workflow from the Actions tab
-  workflow_dispatch:
-
-  # Run on every push to main branch
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=pacman
-            dist/github-contribution-grid-snake-dark.svg?palette=pacman&color_snake=%23F2B400
-
-      - name: Push Pacman SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ##  Current Focus
