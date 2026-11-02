@@ -200,7 +200,20 @@ Currently working on new projects while improving my development and problem-sol
 
 ## 🐍 Contribution Journey
 
-https://raw.githubusercontent.com/milantariyal/milantariyal/output/github-contribution-grid-snake-dark.svg
+<h2 align="left">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/milantariyal/milantariyal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/milantariyal/milantariyal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/milantariyal/milantariyal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 ##  Current Focus
 
 <div align="center">
