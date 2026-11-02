@@ -195,7 +195,13 @@ Currently working on new projects while improving my development and problem-sol
 <img src="https://streak-stats.demolab.com?user=milantariyal&theme=tokyonight&hide_border=true" />
 
 </div>
+🐍 Contribution Journey
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
 ---
 
 
